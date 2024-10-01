@@ -1,0 +1,36 @@
+header {
+    background-color: #1a142c;
+    color: #fff;
+    padding: 1rem;
+    font-size: x-large;
+    height:2.5em;
+}
+stopWatch,course{
+    display:inline-block;
+}
+
+course{
+    width:20em;
+    font-size: xx-large;
+    text-shadow: 4px 2px 3px grey;
+    text-align: right;
+}
+
+course:hover{
+    color: yellow;
+    text-decoration:underline;
+}
+
+trainer{
+    float:inline-end;
+}
+
+email{
+    font-size: large;
+    color: lightskyblue;
+}
+
+button{
+    margin-left:5px;
+    border-radius: 10px;
+}
